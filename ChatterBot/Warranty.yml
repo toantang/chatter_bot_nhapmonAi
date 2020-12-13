@@ -1,0 +1,52 @@
+categories:
+  - This is own data outside the corpus
+conversations:
+  - - thông tin bảo hành sản phẩm
+    - Dạ bên mình bảo hành sản phẩm một năm ạ, bảo hành phần cứng nếu có lỗi của nhà sản xuất, bảo hành phần mềm trong 
+         vòng 1 tháng ạ. Sản phẩm được đổi mới trong 15 ngày nếu có lỗi của nhà sản xuất.
+
+  - - bảo hành theo số serial
+    - Dạ bên mình bảo hành sản phẩm theo số serial 
+         nên bạn chỉ cần mang máy qua là được ạ.
+         
+  - - muốn bảo hành
+    - Bạn muốn bảo hành sản phẩm gì ạ?
+
+  - - muốn bảo hành
+    - tại sao bạn lại muốn bảo hành, máy tính của bạn bị hỏng hóc gì ạ?
+
+  - - muốn bảo hành  
+    - máy tính của bạn có vấn đề gì ạ?
+
+  - - vẫn còn thời hạn bảo hành
+    - Dạ máy tính của bạn vẫn trong thời hạn bảo hành ạ
+
+  - - hết thời hạn bảo hành
+    - máy tính của bạn hết hạn bảo hành rồi ạ
+
+  - - kiểm tra ngày mua
+    - bạn mua máy từ lúc nào ạ
+
+  - - kiểm tra ngày mua
+    - bạn có thể xem trong hóa đơn mua hảng để kiểm tra ngày mua hàng ạ
+
+  - - kiểm tra ngày mua
+    - Bạn có thể đọc số serial máy để mình kiểm tra ạ
+
+  - - laptop bị hỏng
+    - Laptop của bạn bị hỏng gì ạ, bạn mang qua cửa hàng giúp mình ạ
+
+  - - laptop bị hỏng
+    - Phiền bạn mang qua cửa hàng để các kĩ thuật viên kiểm tra giúp mình ạ
+
+  - - laptop bị hỏng
+    - Dạ bên em có bảo hành phần cứng nếu có lỗi của nhà sản xuất ạ còn phần mềm thì chỉ hỗ trợ bảo hành 1 tháng ạ
+  
+  - - laptop vẫn bị hỏng dù đã sửa chữa
+    - Dạ nếu sản phẩm vẫn bị lỗi phiền bạn mang qua shop để nhân viên kĩ thuật kiểm tra và sửa giúp bạn ạ
+
+  - - mình yêu nhau đi 
+    - Xin lỗi anh chỉ là thằng bán laptop dạo
+  - - unknown
+    - 'Mình chưa hiểu rõ lắm, bạn vui lòng nhắc lại được không ạ'
+  
